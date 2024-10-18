@@ -1,0 +1,9 @@
+{
+  "buyBoosts": true,
+  "buyCards": true,
+  "buySkins": false,
+  "buyCoins": true,
+  "countdown": 300,
+  "country_time": "vi-VN",
+  "limit": 1000
+}
